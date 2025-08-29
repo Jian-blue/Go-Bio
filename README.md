@@ -20,7 +20,15 @@ The shortcut uses the built-in `shutdown.exe` tool with special flags:
 
 ## Usage
 
-### 1. Download / Create the shortcut
+### Download
+
+* Download the provided **shutdown.exe** shortcut from this repository and double-click to run.
+
+---
+
+### OR Create your own shortcut
+
+#### 1. Create the shortcut
 
 * Right-click on your desktop → **New → Shortcut**
 * Paste the following into the target box:
@@ -29,12 +37,12 @@ The shortcut uses the built-in `shutdown.exe` tool with special flags:
   "%SystemRoot%\System32\shutdown.exe" /r /fw /t 0
   ```
 
-### 2. Run as Administrator
+#### 2. Run as Administrator
 
 * Right-click the shortcut → **Properties → Advanced** → Check **Run as administrator**
 * This is required for the `/fw` flag to work.
 
-### 3. Double-click the shortcut
+#### 3. Double-click the shortcut
 
 * Your PC will immediately restart into BIOS/UEFI setup.
 
@@ -61,5 +69,3 @@ The shortcut uses the built-in `shutdown.exe` tool with special flags:
 
 This shortcut simply automates a Windows command.
 Use at your own risk. Make sure you save all work before running it, as it will **force a restart**.
-
----
