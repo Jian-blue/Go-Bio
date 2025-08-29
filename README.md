@@ -20,13 +20,7 @@ The shortcut uses the built-in `shutdown.exe` tool with special flags:
 
 ## Usage
 
-### Download
-
-* Download the provided **shutdown.exe** shortcut from this repository and double-click to run.
-
----
-
-### OR Create your own shortcut
+### Create your own shortcut
 
 #### 1. Create the shortcut
 
