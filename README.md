@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/53107af6-a2bb-4226-86da-e4d617b6fe96">
+    <img src="https://github.com/user-attachments/assets/53107af6-a2bb-4226-86da-e4d617b6fe96" alt="Miku Pic" width="350">
+  </a>
+</p>
+
+  
 # Go-Bio: Windows BIOS Shortcut
 
 This repository provides a simple Windows shortcut that lets you quickly reboot your computer directly into the BIOS/UEFI settings without needing to press any special keys (like **F2**, **Del**, or **Esc**) during startup.
